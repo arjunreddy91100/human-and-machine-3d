@@ -1,5 +1,4 @@
-#Human + Machine — 3D Anatomy Explorer
-
+# Human + Machine — 3D Anatomy Explorer
 An interactive 3D human body and a **BMW R 1250 GS Adventure–inspired motorcycle**, side by side. Zoom in to separate the models and point at a component to learn its function.
 
 Created with **Astra**. Arjun Reddy guided the idea, features, and feedback; Astra generated the code and procedural models.
