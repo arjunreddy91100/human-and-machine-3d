@@ -1,0 +1,3317 @@
+[
+  {
+    "name": "Skull",
+    "center": [
+      -1.5,
+      1.72,
+      0
+    ],
+    "system": "Skeleton",
+    "description": "Protects the brain and forms the framework of the head.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.26026000000000005,
+      0.0
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Mandible",
+    "center": [
+      -1.5,
+      1.625,
+      0.035
+    ],
+    "system": "Skeleton",
+    "description": "Lower jaw; moves during chewing and speech.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.22815000000000002,
+      0.045500000000000006
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Brain",
+    "center": [
+      -1.5,
+      1.765,
+      0.015
+    ],
+    "system": "Nervous",
+    "description": "Coordinates sensation, movement, thought, and many body functions.",
+    "color": "#e8ba7c",
+    "offset": [
+      0.0728,
+      0.27547,
+      0.30550000000000005
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 01 (schematic)",
+    "center": [
+      -1.5,
+      0.94,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      -0.0033800000000000032,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 02 (schematic)",
+    "center": [
+      -1.5,
+      0.972,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.007436000000000007,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 03 (schematic)",
+    "center": [
+      -1.5,
+      1.004,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.018252000000000018,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 04 (schematic)",
+    "center": [
+      -1.5,
+      1.036,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.029068000000000028,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 05 (schematic)",
+    "center": [
+      -1.5,
+      1.068,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.03988400000000004,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 06 (schematic)",
+    "center": [
+      -1.5,
+      1.0999999999999999,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.050699999999999974,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 07 (schematic)",
+    "center": [
+      -1.5,
+      1.132,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.06151599999999998,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 08 (schematic)",
+    "center": [
+      -1.5,
+      1.164,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.072332,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 09 (schematic)",
+    "center": [
+      -1.5,
+      1.196,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.08314800000000001,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 10 (schematic)",
+    "center": [
+      -1.5,
+      1.228,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.09396400000000002,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 11 (schematic)",
+    "center": [
+      -1.5,
+      1.26,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.10478000000000003,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 12 (schematic)",
+    "center": [
+      -1.5,
+      1.2919999999999998,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.11559599999999996,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 13 (schematic)",
+    "center": [
+      -1.5,
+      1.3239999999999998,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.12641199999999997,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 14 (schematic)",
+    "center": [
+      -1.5,
+      1.3559999999999999,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.137228,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 15 (schematic)",
+    "center": [
+      -1.5,
+      1.388,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.14804399999999998,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 16 (schematic)",
+    "center": [
+      -1.5,
+      1.42,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.15886,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 17 (schematic)",
+    "center": [
+      -1.5,
+      1.452,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.16967600000000002,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 18 (schematic)",
+    "center": [
+      -1.5,
+      1.484,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.180492,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 19 (schematic)",
+    "center": [
+      -1.5,
+      1.516,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.19130800000000003,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Vertebra 20 (schematic)",
+    "center": [
+      -1.5,
+      1.548,
+      -0.06
+    ],
+    "system": "Skeleton",
+    "description": "A segment of the spinal column. This model simplifies vertebral count and shape.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.20212400000000003,
+      -0.078
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Cervical spine",
+    "center": [
+      -1.5,
+      1.5899999999999999,
+      -0.03
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.21631999999999996,
+      -0.039
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Pelvis",
+    "center": [
+      -1.5,
+      0.91,
+      -0.018
+    ],
+    "system": "Skeleton",
+    "description": "Transfers upper-body weight to the legs and supports pelvic organs.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      -0.013519999999999975,
+      -0.0234
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Sternum",
+    "center": [
+      -1.5,
+      1.345,
+      0.092
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.13351000000000002,
+      0.1196
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right clavicle",
+    "center": [
+      -1.6075,
+      1.49,
+      0.0325
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.137085,
+      0.18252000000000002,
+      0.04225
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right scapula",
+    "center": [
+      -1.63,
+      1.41,
+      -0.082
+    ],
+    "system": "Skeleton",
+    "description": "Shoulder blade; anchors muscles and connects with the upper arm.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.15054,
+      0.15548,
+      -0.10660000000000001
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 1",
+    "center": [
+      -1.5675,
+      1.2475,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.10055500000000005,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 2",
+    "center": [
+      -1.5675,
+      1.2795,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.11137100000000005,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 3",
+    "center": [
+      -1.5675,
+      1.3115,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.12218700000000006,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 4",
+    "center": [
+      -1.5675,
+      1.3435000000000001,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.13300300000000007,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 5",
+    "center": [
+      -1.5675,
+      1.3755000000000002,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.14381900000000006,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 6",
+    "center": [
+      -1.5675,
+      1.4074999999999998,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.15463499999999994,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 7",
+    "center": [
+      -1.5675,
+      1.4394999999999998,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.16545099999999993,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rib 8",
+    "center": [
+      -1.5675,
+      1.4714999999999998,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.11316500000000002,
+      0.17626699999999995,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right humerus",
+    "center": [
+      -1.7525,
+      1.31,
+      0.0
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.22379500000000002,
+      0.12168000000000004,
+      0.0
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right radius",
+    "center": [
+      -1.8399999999999999,
+      1.035,
+      0.020999999999999998
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.27612,
+      0.02872999999999999,
+      0.027299999999999998
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right ulna",
+    "center": [
+      -1.813,
+      1.035,
+      -0.0115
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.25997400000000004,
+      0.02872999999999999,
+      -0.01495
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right hand",
+    "center": [
+      -1.875,
+      0.85,
+      0.017
+    ],
+    "system": "Skeleton",
+    "description": "Simplified hand region representing the palm bones.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.29705000000000004,
+      -0.0338,
+      0.0221
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right finger 1",
+    "center": [
+      -1.8445,
+      0.7895,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.27881100000000003,
+      -0.054249,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right finger 2",
+    "center": [
+      -1.8615,
+      0.7835,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.28897700000000004,
+      -0.056276999999999994,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right finger 3",
+    "center": [
+      -1.8784999999999998,
+      0.7775,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.299143,
+      -0.058304999999999996,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right finger 4",
+    "center": [
+      -1.8955,
+      0.7835,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.309309,
+      -0.056276999999999994,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right finger 5",
+    "center": [
+      -1.9125,
+      0.7895,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.31947499999999995,
+      -0.054249,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right femur",
+    "center": [
+      -1.5875,
+      0.7,
+      0.0075
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.12512500000000001,
+      -0.0845,
+      0.00975
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right tibia",
+    "center": [
+      -1.594,
+      0.3075,
+      0.0075
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.129012,
+      -0.217165,
+      0.00975
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right fibula",
+    "center": [
+      -1.6285,
+      0.305,
+      -0.008
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.149643,
+      -0.21801,
+      -0.010400000000000001
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right patella",
+    "center": [
+      -1.593,
+      0.5,
+      0.05
+    ],
+    "system": "Skeleton",
+    "description": "Kneecap; protects the front of the knee joint.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.128414,
+      -0.15209999999999999,
+      0.065
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right foot",
+    "center": [
+      -1.596,
+      0.066,
+      0.065
+    ],
+    "system": "Skeleton",
+    "description": "Simplified foot region; supports standing and propulsion.",
+    "color": "#eee2c2",
+    "offset": [
+      -0.13020800000000002,
+      -0.298792,
+      0.0845
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Deltoid",
+    "center": [
+      -1.711,
+      1.44,
+      0.012
+    ],
+    "system": "Muscles",
+    "description": "Raises the arm at the shoulder.",
+    "color": "#bf5264",
+    "offset": [
+      -0.31337800000000005,
+      0.16562000000000002,
+      0.1092
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Pectoralis major",
+    "center": [
+      -1.595,
+      1.395,
+      0.115
+    ],
+    "system": "Muscles",
+    "description": "Moves the arm across the chest.",
+    "color": "#bf5264",
+    "offset": [
+      -0.24401,
+      0.15041000000000004,
+      0.2431
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Biceps brachii",
+    "center": [
+      -1.755,
+      1.3,
+      0.042
+    ],
+    "system": "Muscles",
+    "description": "Flexes the elbow and rotates the forearm.",
+    "color": "#bf5264",
+    "offset": [
+      -0.33969,
+      0.11830000000000003,
+      0.14820000000000003
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Triceps brachii",
+    "center": [
+      -1.752,
+      1.3,
+      -0.04
+    ],
+    "system": "Muscles",
+    "description": "Extends the elbow.",
+    "color": "#bf5264",
+    "offset": [
+      -0.33789600000000003,
+      0.11830000000000003,
+      0.0416
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Forearm muscles",
+    "center": [
+      -1.829,
+      1.035,
+      0.026
+    ],
+    "system": "Muscles",
+    "description": "Control wrist and finger movement.",
+    "color": "#bf5264",
+    "offset": [
+      -0.383942,
+      0.02872999999999999,
+      0.1274
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right External oblique",
+    "center": [
+      -1.611,
+      1.13,
+      0.06
+    ],
+    "system": "Muscles",
+    "description": "Rotates and bends the trunk.",
+    "color": "#bf5264",
+    "offset": [
+      -0.253578,
+      0.060839999999999984,
+      0.17159999999999997
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Quadriceps",
+    "center": [
+      -1.592,
+      0.706,
+      0.053
+    ],
+    "system": "Muscles",
+    "description": "Extends the knee.",
+    "color": "#bf5264",
+    "offset": [
+      -0.24221600000000001,
+      -0.082472,
+      0.1625
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Hamstrings",
+    "center": [
+      -1.592,
+      0.708,
+      -0.05
+    ],
+    "system": "Muscles",
+    "description": "Flexes the knee and extends the hip.",
+    "color": "#bf5264",
+    "offset": [
+      -0.24221600000000001,
+      -0.081796,
+      0.028599999999999997
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Gastrocnemius",
+    "center": [
+      -1.605,
+      0.317,
+      -0.038
+    ],
+    "system": "Muscles",
+    "description": "Raises the heel during walking and jumping.",
+    "color": "#bf5264",
+    "offset": [
+      -0.24999000000000002,
+      -0.21395400000000003,
+      0.044199999999999996
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Tibialis anterior",
+    "center": [
+      -1.583,
+      0.31,
+      0.034
+    ],
+    "system": "Muscles",
+    "description": "Lifts the foot at the ankle.",
+    "color": "#bf5264",
+    "offset": [
+      -0.23683400000000002,
+      -0.21631999999999996,
+      0.1378
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Gluteus maximus",
+    "center": [
+      -1.579,
+      0.919,
+      -0.078
+    ],
+    "system": "Muscles",
+    "description": "Extends the hip.",
+    "color": "#bf5264",
+    "offset": [
+      -0.23444199999999998,
+      -0.010477999999999972,
+      -0.0078000000000000074
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right Latissimus dorsi",
+    "center": [
+      -1.604,
+      1.268,
+      -0.094
+    ],
+    "system": "Muscles",
+    "description": "Pulls the arm down and back.",
+    "color": "#bf5264",
+    "offset": [
+      -0.24939200000000003,
+      0.10748400000000002,
+      -0.028599999999999997
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rectus abdominis 1",
+    "center": [
+      -1.538,
+      1.06,
+      0.1
+    ],
+    "system": "Muscles",
+    "description": "Flexes the trunk and supports the abdominal wall.",
+    "color": "#bf5264",
+    "offset": [
+      -0.209924,
+      0.03718000000000003,
+      0.2236
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rectus abdominis 2",
+    "center": [
+      -1.538,
+      1.119,
+      0.1
+    ],
+    "system": "Muscles",
+    "description": "Flexes the trunk and supports the abdominal wall.",
+    "color": "#bf5264",
+    "offset": [
+      -0.209924,
+      0.05712200000000002,
+      0.2236
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right rectus abdominis 3",
+    "center": [
+      -1.538,
+      1.178,
+      0.1
+    ],
+    "system": "Muscles",
+    "description": "Flexes the trunk and supports the abdominal wall.",
+    "color": "#bf5264",
+    "offset": [
+      -0.209924,
+      0.07706400000000001,
+      0.2236
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right lung",
+    "center": [
+      -1.583,
+      1.367,
+      0.025
+    ],
+    "system": "Respiratory",
+    "description": "Exchanges oxygen and carbon dioxide between air and blood.",
+    "color": "#79b5cb",
+    "offset": [
+      -0.122434,
+      0.14094600000000002,
+      0.31850000000000006
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Right kidney",
+    "center": [
+      -1.579,
+      1.115,
+      -0.036
+    ],
+    "system": "Urinary",
+    "description": "Filters blood and helps regulate fluid balance.",
+    "color": "#a283cc",
+    "offset": [
+      -0.12004200000000001,
+      0.055770000000000014,
+      0.23920000000000005
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left clavicle",
+    "center": [
+      -1.3925,
+      1.49,
+      0.0325
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.137085,
+      0.18252000000000002,
+      0.04225
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left scapula",
+    "center": [
+      -1.37,
+      1.41,
+      -0.082
+    ],
+    "system": "Skeleton",
+    "description": "Shoulder blade; anchors muscles and connects with the upper arm.",
+    "color": "#eee2c2",
+    "offset": [
+      0.15054,
+      0.15548,
+      -0.10660000000000001
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 1",
+    "center": [
+      -1.4325,
+      1.2475,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.10055500000000005,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 2",
+    "center": [
+      -1.4325,
+      1.2795,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.11137100000000005,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 3",
+    "center": [
+      -1.4325,
+      1.3115,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.12218700000000006,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 4",
+    "center": [
+      -1.4325,
+      1.3435000000000001,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.13300300000000007,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 5",
+    "center": [
+      -1.4325,
+      1.3755000000000002,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.14381900000000006,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 6",
+    "center": [
+      -1.4325,
+      1.4074999999999998,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.15463499999999994,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 7",
+    "center": [
+      -1.4325,
+      1.4394999999999998,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.16545099999999993,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rib 8",
+    "center": [
+      -1.4325,
+      1.4714999999999998,
+      -0.061
+    ],
+    "system": "Skeleton",
+    "description": "Curved bone helping protect the chest organs. Eight representative ribs per side are shown.",
+    "color": "#eee2c2",
+    "offset": [
+      0.11316500000000002,
+      0.17626699999999995,
+      -0.0793
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left humerus",
+    "center": [
+      -1.2475,
+      1.31,
+      0.0
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.22379500000000002,
+      0.12168000000000004,
+      0.0
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left radius",
+    "center": [
+      -1.1600000000000001,
+      1.035,
+      0.020999999999999998
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.27612,
+      0.02872999999999999,
+      0.027299999999999998
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left ulna",
+    "center": [
+      -1.187,
+      1.035,
+      -0.0115
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.25997400000000004,
+      0.02872999999999999,
+      -0.01495
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left hand",
+    "center": [
+      -1.125,
+      0.85,
+      0.017
+    ],
+    "system": "Skeleton",
+    "description": "Simplified hand region representing the palm bones.",
+    "color": "#eee2c2",
+    "offset": [
+      0.29705000000000004,
+      -0.0338,
+      0.0221
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left finger 1",
+    "center": [
+      -1.1555,
+      0.7895,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.27881100000000003,
+      -0.054249,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left finger 2",
+    "center": [
+      -1.1385,
+      0.7835,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.28897700000000004,
+      -0.056276999999999994,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left finger 3",
+    "center": [
+      -1.1215000000000002,
+      0.7775,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.299143,
+      -0.058304999999999996,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left finger 4",
+    "center": [
+      -1.1045,
+      0.7835,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.309309,
+      -0.056276999999999994,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left finger 5",
+    "center": [
+      -1.0875,
+      0.7895,
+      0.0195
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.31947499999999995,
+      -0.054249,
+      0.02535
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left femur",
+    "center": [
+      -1.4125,
+      0.7,
+      0.0075
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.12512500000000001,
+      -0.0845,
+      0.00975
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left tibia",
+    "center": [
+      -1.406,
+      0.3075,
+      0.0075
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.129012,
+      -0.217165,
+      0.00975
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left fibula",
+    "center": [
+      -1.3715,
+      0.305,
+      -0.008
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.149643,
+      -0.21801,
+      -0.010400000000000001
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left patella",
+    "center": [
+      -1.407,
+      0.5,
+      0.05
+    ],
+    "system": "Skeleton",
+    "description": "Kneecap; protects the front of the knee joint.",
+    "color": "#eee2c2",
+    "offset": [
+      0.128414,
+      -0.15209999999999999,
+      0.065
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left foot",
+    "center": [
+      -1.404,
+      0.066,
+      0.065
+    ],
+    "system": "Skeleton",
+    "description": "Simplified foot region; supports standing and propulsion.",
+    "color": "#eee2c2",
+    "offset": [
+      0.13020800000000002,
+      -0.298792,
+      0.0845
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Deltoid",
+    "center": [
+      -1.289,
+      1.44,
+      0.012
+    ],
+    "system": "Muscles",
+    "description": "Raises the arm at the shoulder.",
+    "color": "#bf5264",
+    "offset": [
+      0.31337800000000005,
+      0.16562000000000002,
+      0.1092
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Pectoralis major",
+    "center": [
+      -1.405,
+      1.395,
+      0.115
+    ],
+    "system": "Muscles",
+    "description": "Moves the arm across the chest.",
+    "color": "#bf5264",
+    "offset": [
+      0.24401,
+      0.15041000000000004,
+      0.2431
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Biceps brachii",
+    "center": [
+      -1.245,
+      1.3,
+      0.042
+    ],
+    "system": "Muscles",
+    "description": "Flexes the elbow and rotates the forearm.",
+    "color": "#bf5264",
+    "offset": [
+      0.33969,
+      0.11830000000000003,
+      0.14820000000000003
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Triceps brachii",
+    "center": [
+      -1.248,
+      1.3,
+      -0.04
+    ],
+    "system": "Muscles",
+    "description": "Extends the elbow.",
+    "color": "#bf5264",
+    "offset": [
+      0.33789600000000003,
+      0.11830000000000003,
+      0.0416
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Forearm muscles",
+    "center": [
+      -1.171,
+      1.035,
+      0.026
+    ],
+    "system": "Muscles",
+    "description": "Control wrist and finger movement.",
+    "color": "#bf5264",
+    "offset": [
+      0.383942,
+      0.02872999999999999,
+      0.1274
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left External oblique",
+    "center": [
+      -1.389,
+      1.13,
+      0.06
+    ],
+    "system": "Muscles",
+    "description": "Rotates and bends the trunk.",
+    "color": "#bf5264",
+    "offset": [
+      0.253578,
+      0.060839999999999984,
+      0.17159999999999997
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Quadriceps",
+    "center": [
+      -1.408,
+      0.706,
+      0.053
+    ],
+    "system": "Muscles",
+    "description": "Extends the knee.",
+    "color": "#bf5264",
+    "offset": [
+      0.24221600000000001,
+      -0.082472,
+      0.1625
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Hamstrings",
+    "center": [
+      -1.408,
+      0.708,
+      -0.05
+    ],
+    "system": "Muscles",
+    "description": "Flexes the knee and extends the hip.",
+    "color": "#bf5264",
+    "offset": [
+      0.24221600000000001,
+      -0.081796,
+      0.028599999999999997
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Gastrocnemius",
+    "center": [
+      -1.395,
+      0.317,
+      -0.038
+    ],
+    "system": "Muscles",
+    "description": "Raises the heel during walking and jumping.",
+    "color": "#bf5264",
+    "offset": [
+      0.24999000000000002,
+      -0.21395400000000003,
+      0.044199999999999996
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Tibialis anterior",
+    "center": [
+      -1.417,
+      0.31,
+      0.034
+    ],
+    "system": "Muscles",
+    "description": "Lifts the foot at the ankle.",
+    "color": "#bf5264",
+    "offset": [
+      0.23683400000000002,
+      -0.21631999999999996,
+      0.1378
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Gluteus maximus",
+    "center": [
+      -1.421,
+      0.919,
+      -0.078
+    ],
+    "system": "Muscles",
+    "description": "Extends the hip.",
+    "color": "#bf5264",
+    "offset": [
+      0.23444199999999998,
+      -0.010477999999999972,
+      -0.0078000000000000074
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left Latissimus dorsi",
+    "center": [
+      -1.396,
+      1.268,
+      -0.094
+    ],
+    "system": "Muscles",
+    "description": "Pulls the arm down and back.",
+    "color": "#bf5264",
+    "offset": [
+      0.24939200000000003,
+      0.10748400000000002,
+      -0.028599999999999997
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rectus abdominis 1",
+    "center": [
+      -1.462,
+      1.06,
+      0.1
+    ],
+    "system": "Muscles",
+    "description": "Flexes the trunk and supports the abdominal wall.",
+    "color": "#bf5264",
+    "offset": [
+      0.209924,
+      0.03718000000000003,
+      0.2236
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rectus abdominis 2",
+    "center": [
+      -1.462,
+      1.119,
+      0.1
+    ],
+    "system": "Muscles",
+    "description": "Flexes the trunk and supports the abdominal wall.",
+    "color": "#bf5264",
+    "offset": [
+      0.209924,
+      0.05712200000000002,
+      0.2236
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left rectus abdominis 3",
+    "center": [
+      -1.462,
+      1.178,
+      0.1
+    ],
+    "system": "Muscles",
+    "description": "Flexes the trunk and supports the abdominal wall.",
+    "color": "#bf5264",
+    "offset": [
+      0.209924,
+      0.07706400000000001,
+      0.2236
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left lung",
+    "center": [
+      -1.417,
+      1.367,
+      0.025
+    ],
+    "system": "Respiratory",
+    "description": "Exchanges oxygen and carbon dioxide between air and blood.",
+    "color": "#79b5cb",
+    "offset": [
+      0.122434,
+      0.14094600000000002,
+      0.31850000000000006
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Left kidney",
+    "center": [
+      -1.421,
+      1.115,
+      -0.036
+    ],
+    "system": "Urinary",
+    "description": "Filters blood and helps regulate fluid balance.",
+    "color": "#a283cc",
+    "offset": [
+      0.12004200000000001,
+      0.055770000000000014,
+      0.23920000000000005
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Neck support",
+    "center": [
+      -1.5,
+      1.56,
+      0.0
+    ],
+    "system": "Skeleton",
+    "description": "Supports the body and provides attachment for muscles.",
+    "color": "#eee2c2",
+    "offset": [
+      0.0728,
+      0.20618000000000006,
+      0.0
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Trachea",
+    "center": [
+      -1.5,
+      1.51,
+      0.045
+    ],
+    "system": "Respiratory",
+    "description": "Conducts air toward the bronchi and lungs.",
+    "color": "#79b5cb",
+    "offset": [
+      0.0728,
+      0.18928000000000003,
+      0.3445000000000001
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Heart",
+    "center": [
+      -1.469,
+      1.315,
+      0.063
+    ],
+    "system": "Circulatory",
+    "description": "Pumps blood through the pulmonary and systemic circulations.",
+    "color": "#d63855",
+    "offset": [
+      0.091338,
+      0.12337,
+      0.3679
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Liver",
+    "center": [
+      -1.563,
+      1.212,
+      0.038
+    ],
+    "system": "Digestive",
+    "description": "Processes nutrients, produces bile, and performs many metabolic functions.",
+    "color": "#d89665",
+    "offset": [
+      -0.11047400000000002,
+      0.08855600000000001,
+      0.33540000000000003
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Stomach",
+    "center": [
+      -1.428,
+      1.184,
+      0.054
+    ],
+    "system": "Digestive",
+    "description": "Stores and mixes food with digestive secretions.",
+    "color": "#d89665",
+    "offset": [
+      0.115856,
+      0.079092,
+      0.3562
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Spleen",
+    "center": [
+      -1.37,
+      1.205,
+      -0.015
+    ],
+    "system": "Organs",
+    "description": "Filters blood and supports immune function.",
+    "color": "#be789b",
+    "offset": [
+      0.15054,
+      0.08619000000000004,
+      0.26650000000000007
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Pancreas",
+    "center": [
+      -1.478,
+      1.153,
+      -0.005
+    ],
+    "system": "Digestive",
+    "description": "Produces digestive enzymes and hormones including insulin.",
+    "color": "#d89665",
+    "offset": [
+      0.085956,
+      0.06861400000000002,
+      0.2795000000000001
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Urinary bladder",
+    "center": [
+      -1.5,
+      0.963,
+      0.052
+    ],
+    "system": "Urinary",
+    "description": "Stores urine before it leaves the body.",
+    "color": "#a283cc",
+    "offset": [
+      0.0728,
+      0.004394000000000004,
+      0.3536
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Small intestine loop 1",
+    "center": [
+      -1.48,
+      1.025,
+      0.055
+    ],
+    "system": "Digestive",
+    "description": "Absorbs most nutrients from digested food; loops are schematic.",
+    "color": "#d89665",
+    "offset": [
+      0.08476,
+      0.025349999999999987,
+      0.35750000000000004
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Small intestine loop 2",
+    "center": [
+      -1.52,
+      1.0439999999999998,
+      0.055
+    ],
+    "system": "Digestive",
+    "description": "Absorbs most nutrients from digested food; loops are schematic.",
+    "color": "#d89665",
+    "offset": [
+      -0.08476,
+      0.03177199999999995,
+      0.35750000000000004
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Small intestine loop 3",
+    "center": [
+      -1.48,
+      1.063,
+      0.055
+    ],
+    "system": "Digestive",
+    "description": "Absorbs most nutrients from digested food; loops are schematic.",
+    "color": "#d89665",
+    "offset": [
+      0.08476,
+      0.038194,
+      0.35750000000000004
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Small intestine loop 4",
+    "center": [
+      -1.52,
+      1.0819999999999999,
+      0.055
+    ],
+    "system": "Digestive",
+    "description": "Absorbs most nutrients from digested food; loops are schematic.",
+    "color": "#d89665",
+    "offset": [
+      -0.08476,
+      0.04461599999999997,
+      0.35750000000000004
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Small intestine loop 5",
+    "center": [
+      -1.48,
+      1.101,
+      0.055
+    ],
+    "system": "Digestive",
+    "description": "Absorbs most nutrients from digested food; loops are schematic.",
+    "color": "#d89665",
+    "offset": [
+      0.08476,
+      0.05103800000000001,
+      0.35750000000000004
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Small intestine loop 6",
+    "center": [
+      -1.52,
+      1.1199999999999999,
+      0.055
+    ],
+    "system": "Digestive",
+    "description": "Absorbs most nutrients from digested food; loops are schematic.",
+    "color": "#d89665",
+    "offset": [
+      -0.08476,
+      0.05745999999999998,
+      0.35750000000000004
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Ascending colon",
+    "center": [
+      -1.597,
+      1.074,
+      0.043
+    ],
+    "system": "Digestive",
+    "description": "Absorbs water and moves remaining digestive contents toward elimination.",
+    "color": "#d89665",
+    "offset": [
+      -0.130806,
+      0.04191200000000004,
+      0.3419
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Descending colon",
+    "center": [
+      -1.403,
+      1.074,
+      0.043
+    ],
+    "system": "Digestive",
+    "description": "Absorbs water and moves remaining digestive contents toward elimination.",
+    "color": "#d89665",
+    "offset": [
+      0.130806,
+      0.04191200000000004,
+      0.3419
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Transverse colon",
+    "center": [
+      -1.5,
+      1.144,
+      0.068
+    ],
+    "system": "Digestive",
+    "description": "Absorbs water and moves remaining digestive contents toward elimination.",
+    "color": "#d89665",
+    "offset": [
+      0.0728,
+      0.06557199999999998,
+      0.37440000000000007
+    ],
+    "object": "Human"
+  },
+  {
+    "name": "Rear tire",
+    "center": [
+      1.0,
+      0.33999999999999997,
+      0
+    ],
+    "system": "Wheels & brakes",
+    "color": "#252c35",
+    "description": "Provides traction, absorbs small surface irregularities, and carries load.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.46,
+      -0.12,
+      0
+    ]
+  },
+  {
+    "name": "Rear spoked wheel rim",
+    "center": [
+      1.0,
+      0.33999999999999997,
+      0
+    ],
+    "system": "Wheels & brakes",
+    "color": "#c7a35c",
+    "description": "Holds the tire and distributes spoke loads.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.46,
+      -0.12,
+      0.21
+    ]
+  },
+  {
+    "name": "Rear cross-spoke assembly",
+    "center": [
+      0.24749999999999994,
+      0.33999999999999997,
+      0.035
+    ],
+    "system": "Wheels & brakes",
+    "description": "Tensioned spokes connect the hub and rim.",
+    "color": "#bac4ca",
+    "offset": [
+      -0.46,
+      -0.12,
+      -0.2
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Rear wheel hub",
+    "center": [
+      0.15000000000000002,
+      0.33999999999999997,
+      0.0
+    ],
+    "system": "Wheels & brakes",
+    "description": "Supports the wheel bearings and axle.",
+    "color": "#c4a064",
+    "offset": [
+      -0.252,
+      -0.20800000000000002,
+      0.0
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Rear brake disc near",
+    "center": [
+      0.15000000000000002,
+      0.33999999999999997,
+      0.105
+    ],
+    "system": "Wheels & brakes",
+    "color": "#aab6be",
+    "description": "Brake pads clamp the disc to slow the wheel.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.46,
+      -0.12,
+      0.4
+    ]
+  },
+  {
+    "name": "Rear brake caliper near",
+    "center": [
+      0.03500000000000003,
+      0.40499999999999997,
+      0.105
+    ],
+    "system": "Wheels & brakes",
+    "color": "#b89951",
+    "description": "Hydraulic pistons press the pads against the brake disc.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.2934,
+      -0.15600000000000003,
+      0.168
+    ]
+  },
+  {
+    "name": "Front tire",
+    "center": [
+      2.48,
+      0.37,
+      0
+    ],
+    "system": "Wheels & brakes",
+    "color": "#252c35",
+    "description": "Provides traction, absorbs small surface irregularities, and carries load.",
+    "object": "Motorcycle",
+    "offset": [
+      0.46,
+      -0.12,
+      0
+    ]
+  },
+  {
+    "name": "Front spoked wheel rim",
+    "center": [
+      2.48,
+      0.37,
+      0
+    ],
+    "system": "Wheels & brakes",
+    "color": "#c7a35c",
+    "description": "Holds the tire and distributes spoke loads.",
+    "object": "Motorcycle",
+    "offset": [
+      0.46,
+      -0.12,
+      0.21
+    ]
+  },
+  {
+    "name": "Front cross-spoke assembly",
+    "center": [
+      1.7425000000000002,
+      0.37,
+      0.035
+    ],
+    "system": "Wheels & brakes",
+    "description": "Tensioned spokes connect the hub and rim.",
+    "color": "#bac4ca",
+    "offset": [
+      0.46,
+      -0.12,
+      -0.2
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Front wheel hub",
+    "center": [
+      1.63,
+      0.37,
+      0.0
+    ],
+    "system": "Wheels & brakes",
+    "description": "Supports the wheel bearings and axle.",
+    "color": "#c4a064",
+    "offset": [
+      0.2808,
+      -0.184,
+      0.0
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Front brake disc near",
+    "center": [
+      1.63,
+      0.37,
+      0.095
+    ],
+    "system": "Wheels & brakes",
+    "color": "#aab6be",
+    "description": "Brake pads clamp the disc to slow the wheel.",
+    "object": "Motorcycle",
+    "offset": [
+      0.46,
+      -0.12,
+      0.4
+    ]
+  },
+  {
+    "name": "Front brake caliper near",
+    "center": [
+      1.5150000000000001,
+      0.435,
+      0.095
+    ],
+    "system": "Wheels & brakes",
+    "color": "#b89951",
+    "description": "Hydraulic pistons press the pads against the brake disc.",
+    "object": "Motorcycle",
+    "offset": [
+      0.2394,
+      -0.13199999999999998,
+      0.15200000000000002
+    ]
+  },
+  {
+    "name": "Front brake disc far",
+    "center": [
+      1.63,
+      0.37,
+      -0.095
+    ],
+    "system": "Wheels & brakes",
+    "color": "#aab6be",
+    "description": "Brake pads clamp the disc to slow the wheel.",
+    "object": "Motorcycle",
+    "offset": [
+      0.46,
+      -0.12,
+      -0.4
+    ]
+  },
+  {
+    "name": "Front brake caliper far",
+    "center": [
+      1.5150000000000001,
+      0.435,
+      -0.095
+    ],
+    "system": "Wheels & brakes",
+    "color": "#b89951",
+    "description": "Hydraulic pistons press the pads against the brake disc.",
+    "object": "Motorcycle",
+    "offset": [
+      0.2394,
+      -0.13199999999999998,
+      -0.15200000000000002
+    ]
+  },
+  {
+    "name": "Adventure fuel tank",
+    "center": [
+      0.9299999999999999,
+      0.91,
+      0
+    ],
+    "system": "Bodywork",
+    "description": "Stores fuel above the engine; the large tank is a signature Adventure feature.",
+    "color": "#e3e7e8",
+    "offset": [
+      0.03,
+      0.6,
+      0
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Tank side panel -0.21",
+    "center": [
+      1.03,
+      0.87,
+      -0.21
+    ],
+    "system": "Bodywork",
+    "color": "#28629a",
+    "description": "Protective exterior panel beside the fuel tank.",
+    "object": "Motorcycle",
+    "offset": [
+      0.06,
+      0.34,
+      -0.504
+    ]
+  },
+  {
+    "name": "Rally red accent -0.21",
+    "center": [
+      0.89,
+      0.945,
+      -0.22890000000000002
+    ],
+    "system": "Bodywork",
+    "color": "#d95149",
+    "description": "Decorative adventure-style bodywork stripe.",
+    "object": "Motorcycle",
+    "offset": [
+      0.06,
+      0.34,
+      -0.504
+    ]
+  },
+  {
+    "name": "Tank side panel 0.21",
+    "center": [
+      1.03,
+      0.87,
+      0.21
+    ],
+    "system": "Bodywork",
+    "color": "#28629a",
+    "description": "Protective exterior panel beside the fuel tank.",
+    "object": "Motorcycle",
+    "offset": [
+      0.06,
+      0.34,
+      0.504
+    ]
+  },
+  {
+    "name": "Rally red accent 0.21",
+    "center": [
+      0.89,
+      0.945,
+      0.22890000000000002
+    ],
+    "system": "Bodywork",
+    "color": "#d95149",
+    "description": "Decorative adventure-style bodywork stripe.",
+    "object": "Motorcycle",
+    "offset": [
+      0.06,
+      0.34,
+      0.504
+    ]
+  },
+  {
+    "name": "Rider saddle",
+    "center": [
+      0.54,
+      0.91,
+      0
+    ],
+    "system": "Bodywork",
+    "color": "#222d3c",
+    "description": "Supports the rider in an upright touring position.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.1,
+      0.55,
+      0
+    ]
+  },
+  {
+    "name": "Passenger saddle",
+    "center": [
+      0.20999999999999996,
+      1.0,
+      0
+    ],
+    "system": "Bodywork",
+    "color": "#303c4c",
+    "description": "Raised rear seating area for a passenger.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.3,
+      0.7,
+      0
+    ]
+  },
+  {
+    "name": "Front beak",
+    "center": [
+      1.54,
+      0.89,
+      0
+    ],
+    "system": "Bodywork",
+    "color": "#e8e9df",
+    "description": "Adventure-style front bodywork above the wheel.",
+    "object": "Motorcycle",
+    "offset": [
+      0.4,
+      0.4,
+      0
+    ]
+  },
+  {
+    "name": "Front mudguard",
+    "center": [
+      1.62,
+      0.725,
+      0
+    ],
+    "system": "Bodywork",
+    "color": "#293440",
+    "description": "Deflects road spray from the front wheel.",
+    "object": "Motorcycle",
+    "offset": [
+      0.48,
+      0.15,
+      0
+    ]
+  },
+  {
+    "name": "Windscreen",
+    "center": [
+      1.37,
+      1.255,
+      0
+    ],
+    "system": "Cockpit & lights",
+    "color": "#91bac6",
+    "description": "Deflects airflow away from the rider; rendered as a blue solid surface.",
+    "object": "Motorcycle",
+    "offset": [
+      0.35,
+      0.7,
+      0
+    ]
+  },
+  {
+    "name": "Headlight housing",
+    "center": [
+      1.475,
+      1.045,
+      0
+    ],
+    "system": "Cockpit & lights",
+    "color": "#323f4a",
+    "description": "Houses the forward lighting assembly.",
+    "object": "Motorcycle",
+    "offset": [
+      0.46,
+      0.35,
+      0
+    ]
+  },
+  {
+    "name": "LED headlight face",
+    "center": [
+      1.5459999999999998,
+      1.045,
+      0
+    ],
+    "system": "Cockpit & lights",
+    "color": "#dcefff",
+    "description": "Illuminates the road ahead.",
+    "object": "Motorcycle",
+    "offset": [
+      0.6,
+      0.35,
+      0
+    ]
+  },
+  {
+    "name": "TFT instrument display",
+    "center": [
+      1.2349999999999999,
+      1.157,
+      0
+    ],
+    "system": "Cockpit & lights",
+    "color": "#4a95b8",
+    "description": "Displays speed, riding information, and motorcycle status.",
+    "object": "Motorcycle",
+    "offset": [
+      0.13,
+      0.62,
+      0.22
+    ]
+  },
+  {
+    "name": "Handlebar",
+    "center": [
+      1.14,
+      1.16,
+      0.0
+    ],
+    "system": "Cockpit & lights",
+    "description": "Transfers rider steering input to the front assembly.",
+    "color": "#8bc5d9",
+    "offset": [
+      0.10439999999999999,
+      0.44799999999999995,
+      0.0
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Handguard -0.34",
+    "center": [
+      1.2,
+      1.17,
+      -0.34
+    ],
+    "system": "Cockpit & lights",
+    "color": "#dde5e6",
+    "description": "Shields the rider\u2019s hands from wind and debris.",
+    "object": "Motorcycle",
+    "offset": [
+      0.126,
+      0.45599999999999996,
+      -0.544
+    ]
+  },
+  {
+    "name": "Mirror stalk -0.34",
+    "center": [
+      1.125,
+      1.26,
+      -0.36550000000000005
+    ],
+    "system": "Cockpit & lights",
+    "description": "Supports the rear-view mirror.",
+    "color": "#8bc5d9",
+    "offset": [
+      0.099,
+      0.528,
+      -0.5848000000000001
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Rear-view mirror -0.34",
+    "center": [
+      1.1099999999999999,
+      1.355,
+      -0.391
+    ],
+    "system": "Cockpit & lights",
+    "color": "#8499a5",
+    "description": "Provides a view of traffic behind.",
+    "object": "Motorcycle",
+    "offset": [
+      0.0936,
+      0.6040000000000001,
+      -0.6256
+    ]
+  },
+  {
+    "name": "Aluminum pannier -0.34",
+    "center": [
+      0.16999999999999993,
+      0.77,
+      -0.391
+    ],
+    "system": "Luggage",
+    "color": "#aebbc4",
+    "description": "Removable side case for touring luggage.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.38,
+      0.22,
+      -0.8840000000000001
+    ]
+  },
+  {
+    "name": "Pannier lid -0.34",
+    "center": [
+      0.16999999999999993,
+      0.943,
+      -0.391
+    ],
+    "system": "Luggage",
+    "color": "#566778",
+    "description": "Closes the touring side case.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.38,
+      0.5,
+      -0.8840000000000001
+    ]
+  },
+  {
+    "name": "Handguard 0.34",
+    "center": [
+      1.2,
+      1.17,
+      0.34
+    ],
+    "system": "Cockpit & lights",
+    "color": "#dde5e6",
+    "description": "Shields the rider\u2019s hands from wind and debris.",
+    "object": "Motorcycle",
+    "offset": [
+      0.126,
+      0.45599999999999996,
+      0.544
+    ]
+  },
+  {
+    "name": "Mirror stalk 0.34",
+    "center": [
+      1.125,
+      1.26,
+      0.36550000000000005
+    ],
+    "system": "Cockpit & lights",
+    "description": "Supports the rear-view mirror.",
+    "color": "#8bc5d9",
+    "offset": [
+      0.099,
+      0.528,
+      0.5848000000000001
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Rear-view mirror 0.34",
+    "center": [
+      1.1099999999999999,
+      1.355,
+      0.391
+    ],
+    "system": "Cockpit & lights",
+    "color": "#8499a5",
+    "description": "Provides a view of traffic behind.",
+    "object": "Motorcycle",
+    "offset": [
+      0.0936,
+      0.6040000000000001,
+      0.6256
+    ]
+  },
+  {
+    "name": "Aluminum pannier 0.34",
+    "center": [
+      0.16999999999999993,
+      0.77,
+      0.391
+    ],
+    "system": "Luggage",
+    "color": "#aebbc4",
+    "description": "Removable side case for touring luggage.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.38,
+      0.22,
+      0.8840000000000001
+    ]
+  },
+  {
+    "name": "Pannier lid 0.34",
+    "center": [
+      0.16999999999999993,
+      0.943,
+      0.391
+    ],
+    "system": "Luggage",
+    "color": "#566778",
+    "description": "Closes the touring side case.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.38,
+      0.5,
+      0.8840000000000001
+    ]
+  },
+  {
+    "name": "Rear luggage rack",
+    "center": [
+      -0.030000000000000027,
+      1.04,
+      0
+    ],
+    "system": "Luggage",
+    "color": "#8899a5",
+    "description": "Mounting platform for luggage behind the passenger.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.31679999999999997,
+      0.3520000000000001,
+      0.0
+    ]
+  },
+  {
+    "name": "Tail lamp",
+    "center": [
+      -0.06000000000000005,
+      0.94,
+      0
+    ],
+    "system": "Cockpit & lights",
+    "color": "#f3474e",
+    "description": "Signals braking and marks the rear of the motorcycle.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.3276,
+      0.27199999999999996,
+      0.0
+    ]
+  },
+  {
+    "name": "Engine crankcase",
+    "center": [
+      0.86,
+      0.52,
+      0
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#737f89",
+    "description": "Central engine housing around the crankshaft.",
+    "object": "Motorcycle",
+    "offset": [
+      0.08,
+      -0.17,
+      0
+    ]
+  },
+  {
+    "name": "Right boxer cylinder",
+    "center": [
+      0.95,
+      0.56,
+      -0.23
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#a9b2b8",
+    "description": "Opposed cylinders extend horizontally from the central crankcase.",
+    "object": "Motorcycle",
+    "offset": [
+      0.05,
+      -0.05,
+      -0.54
+    ]
+  },
+  {
+    "name": "Right cylinder-head cover",
+    "center": [
+      0.95,
+      0.56,
+      -0.366
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#424e59",
+    "description": "Protects the cylinder-head valve mechanism.",
+    "object": "Motorcycle",
+    "offset": [
+      0.05,
+      0.0,
+      -0.9
+    ]
+  },
+  {
+    "name": "Right cylinder fin assembly",
+    "center": [
+      0.95,
+      0.493,
+      -0.255
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#5b6975",
+    "description": "External fins increase surface area for heat transfer.",
+    "object": "Motorcycle",
+    "offset": [
+      0.05,
+      -0.05,
+      -0.6
+    ]
+  },
+  {
+    "name": "Radiator -1",
+    "center": [
+      1.2,
+      0.775,
+      -0.195
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#3f515e",
+    "description": "Transfers heat from engine coolant to passing air.",
+    "object": "Motorcycle",
+    "offset": [
+      0.3,
+      0.14,
+      -0.7
+    ]
+  },
+  {
+    "name": "Engine crash cage -1",
+    "center": [
+      1.13,
+      0.61,
+      -0.41
+    ],
+    "system": "Chassis & suspension",
+    "description": "Tubular protection around the engine and bodywork.",
+    "color": "#b9c6ce",
+    "offset": [
+      0,
+      0,
+      -0.85
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Exhaust header -1",
+    "center": [
+      1.085,
+      0.4,
+      -0.24
+    ],
+    "system": "Engine & drivetrain",
+    "description": "Carries exhaust gases from the cylinder head.",
+    "color": "#af9476",
+    "offset": [
+      0.0846,
+      -0.15999999999999998,
+      -0.384
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Left boxer cylinder",
+    "center": [
+      0.95,
+      0.56,
+      0.23
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#a9b2b8",
+    "description": "Opposed cylinders extend horizontally from the central crankcase.",
+    "object": "Motorcycle",
+    "offset": [
+      0.05,
+      -0.05,
+      0.54
+    ]
+  },
+  {
+    "name": "Left cylinder-head cover",
+    "center": [
+      0.95,
+      0.56,
+      0.366
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#424e59",
+    "description": "Protects the cylinder-head valve mechanism.",
+    "object": "Motorcycle",
+    "offset": [
+      0.05,
+      0.0,
+      0.9
+    ]
+  },
+  {
+    "name": "Left cylinder fin assembly",
+    "center": [
+      0.95,
+      0.493,
+      0.255
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#5b6975",
+    "description": "External fins increase surface area for heat transfer.",
+    "object": "Motorcycle",
+    "offset": [
+      0.05,
+      -0.05,
+      0.6
+    ]
+  },
+  {
+    "name": "Radiator 1",
+    "center": [
+      1.2,
+      0.775,
+      0.195
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#3f515e",
+    "description": "Transfers heat from engine coolant to passing air.",
+    "object": "Motorcycle",
+    "offset": [
+      0.3,
+      0.14,
+      0.7
+    ]
+  },
+  {
+    "name": "Engine crash cage 1",
+    "center": [
+      1.13,
+      0.61,
+      0.41
+    ],
+    "system": "Chassis & suspension",
+    "description": "Tubular protection around the engine and bodywork.",
+    "color": "#b9c6ce",
+    "offset": [
+      0,
+      0,
+      0.85
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Exhaust header 1",
+    "center": [
+      1.085,
+      0.4,
+      0.24
+    ],
+    "system": "Engine & drivetrain",
+    "description": "Carries exhaust gases from the cylinder head.",
+    "color": "#af9476",
+    "offset": [
+      0.0846,
+      -0.15999999999999998,
+      0.384
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Gearbox",
+    "center": [
+      0.58,
+      0.52,
+      0
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#697984",
+    "description": "Changes the ratio between engine speed and rear-wheel speed.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.27,
+      -0.23,
+      0
+    ]
+  },
+  {
+    "name": "Paralever swingarm and shaft housing",
+    "center": [
+      0.35,
+      0.41500000000000004,
+      -0.105
+    ],
+    "system": "Chassis & suspension",
+    "description": "Rear suspension arm enclosing the shaft-drive path.",
+    "color": "#9ba9b3",
+    "offset": [
+      -0.18,
+      -0.14799999999999996,
+      -0.168
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Final-drive housing",
+    "center": [
+      0.15000000000000002,
+      0.34,
+      -0.12
+    ],
+    "system": "Engine & drivetrain",
+    "description": "Turns shaft-drive rotation to drive the rear wheel.",
+    "color": "#959fa9",
+    "offset": [
+      -0.252,
+      -0.20799999999999996,
+      -0.192
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Rear suspension strut",
+    "center": [
+      0.41999999999999993,
+      0.62,
+      -0.015
+    ],
+    "system": "Chassis & suspension",
+    "description": "Spring and damper assembly controlling rear suspension movement.",
+    "color": "#dcbd68",
+    "offset": [
+      -0.15480000000000002,
+      0.016000000000000014,
+      -0.024
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Front fork leg -0.087",
+    "center": [
+      1.48,
+      0.7250000000000001,
+      -0.087
+    ],
+    "system": "Chassis & suspension",
+    "description": "Guides the front wheel and steering assembly.",
+    "color": "#b9c8cf",
+    "offset": [
+      0.2268,
+      0.10000000000000009,
+      -0.1392
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Telelever wishbone arm -0.087",
+    "center": [
+      1.225,
+      0.615,
+      -0.10004999999999999
+    ],
+    "system": "Chassis & suspension",
+    "description": "Links the front wheel assembly to the chassis; separates suspension and steering functions.",
+    "color": "#b9c6ce",
+    "offset": [
+      0.135,
+      0.01200000000000001,
+      -0.16008
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Rear subframe -0.087",
+    "center": [
+      0.31499999999999995,
+      0.77,
+      -0.087
+    ],
+    "system": "Chassis & suspension",
+    "description": "Supports the seat and rear luggage.",
+    "color": "#b73241",
+    "offset": [
+      -0.1926,
+      0.13600000000000004,
+      -0.1392
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Main frame upper rail -0.087",
+    "center": [
+      0.975,
+      0.9,
+      -0.087
+    ],
+    "system": "Chassis & suspension",
+    "description": "Structural connection between the steering head and engine region.",
+    "color": "#b73241",
+    "offset": [
+      0.045,
+      0.24000000000000005,
+      -0.1392
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Front fork leg 0.087",
+    "center": [
+      1.48,
+      0.7250000000000001,
+      0.087
+    ],
+    "system": "Chassis & suspension",
+    "description": "Guides the front wheel and steering assembly.",
+    "color": "#b9c8cf",
+    "offset": [
+      0.2268,
+      0.10000000000000009,
+      0.1392
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Telelever wishbone arm 0.087",
+    "center": [
+      1.225,
+      0.615,
+      0.10004999999999999
+    ],
+    "system": "Chassis & suspension",
+    "description": "Links the front wheel assembly to the chassis; separates suspension and steering functions.",
+    "color": "#b9c6ce",
+    "offset": [
+      0.135,
+      0.01200000000000001,
+      0.16008
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Rear subframe 0.087",
+    "center": [
+      0.31499999999999995,
+      0.77,
+      0.087
+    ],
+    "system": "Chassis & suspension",
+    "description": "Supports the seat and rear luggage.",
+    "color": "#b73241",
+    "offset": [
+      -0.1926,
+      0.13600000000000004,
+      0.1392
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Main frame upper rail 0.087",
+    "center": [
+      0.975,
+      0.9,
+      0.087
+    ],
+    "system": "Chassis & suspension",
+    "description": "Structural connection between the steering head and engine region.",
+    "color": "#b73241",
+    "offset": [
+      0.045,
+      0.24000000000000005,
+      0.1392
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Front central suspension strut",
+    "center": [
+      1.1,
+      0.76,
+      0.0
+    ],
+    "system": "Chassis & suspension",
+    "description": "Central spring and damper for the Telelever front suspension.",
+    "color": "#d7b95d",
+    "offset": [
+      0.09,
+      0.12800000000000003,
+      0.0
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Engine skid plate",
+    "center": [
+      0.9,
+      0.32,
+      0
+    ],
+    "system": "Chassis & suspension",
+    "color": "#b7c4ca",
+    "description": "Protects the underside of the engine from debris.",
+    "object": "Motorcycle",
+    "offset": [
+      0,
+      -0.3,
+      0
+    ]
+  },
+  {
+    "name": "Exhaust silencer",
+    "center": [
+      0.275,
+      0.5800000000000001,
+      0.25
+    ],
+    "system": "Engine & drivetrain",
+    "description": "Reduces exhaust noise before gases leave the system.",
+    "color": "#aeb6ba",
+    "offset": [
+      -0.207,
+      -0.015999999999999927,
+      0.4
+    ],
+    "object": "Motorcycle"
+  },
+  {
+    "name": "Airbox",
+    "center": [
+      0.76,
+      0.77,
+      0
+    ],
+    "system": "Engine & drivetrain",
+    "color": "#303d49",
+    "description": "Holds the intake air filter and supplies filtered air to the engine.",
+    "object": "Motorcycle",
+    "offset": [
+      0,
+      0.34,
+      -0.38
+    ]
+  },
+  {
+    "name": "Battery",
+    "center": [
+      0.49,
+      0.77,
+      0
+    ],
+    "system": "Cockpit & lights",
+    "color": "#465665",
+    "description": "Supplies electrical energy for starting and onboard systems.",
+    "object": "Motorcycle",
+    "offset": [
+      -0.1,
+      0.38,
+      0.37
+    ]
+  }
+]
